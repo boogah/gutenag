@@ -11,9 +11,9 @@
  * @license           GPL-3.0
  *
  * @wordpress-plugin
- * Plugin Name:       Gutenag
+ * Plugin Name:       Nil Desperandum
  * Plugin URI:        https://github.com/boogah/gutenag/
- * Description:       Hides the "try Gutenberg" nag in WordPress 4.9
+ * Description:       Goodbye. Adieu. Aufwiedersehen. Gesundheit. Farewell.
  * Version:           1.0.0
  * Author:            Jason Cosper
  * Author URI:        https://jasoncosper.com/
