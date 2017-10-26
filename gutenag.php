@@ -13,8 +13,8 @@
  * @wordpress-plugin
  * Plugin Name:       Gutenag
  * Plugin URI:        https://github.com/boogah/gutenag/
- * Description:       Hides the "try Gutenberg" nag in WordPress 4.9
- * Version:           1.0.0
+ * Description:       Hides the "try Gutenberg" nag shipping in WordPress 4.9.1
+ * Version:           1.0.1
  * Author:            Jason Cosper
  * Author URI:        https://jasoncosper.com/
  * License:           GPL-3.0
